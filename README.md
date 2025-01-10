@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasir Notezai</h1>
-<h3 align="center">Machine Learning / AI Expert InshaAllah</h3>
+<h3 align="center"> Data Science | Machine Learning Practitioner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirnotezai&label=Profile%20views&color=0e75b6&style=flat" alt="yasirnotezai" /> </p>
 
